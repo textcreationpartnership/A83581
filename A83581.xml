@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes agreed on by the Lords and Commons concerning a treaty; and their desire of a safe conduct for a committee named by them, contained in a letter of the 28. of February from the Earle of Manchester to the Lord Viscount of Falkland. With His Maiesties gratious answer thereunto, and a copy of his safe conduct. : Also the articles concerning a cessation proposed by both houses of Parliamemt [sic], and a letter of the 28. of Feb. from the said Earle of Manchester, to the said L. of Falkland, in which they were inclosed. With His Majesties gratious answer to the same.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83581</idno>
+            <idno type="STC">Wing E2435A</idno>
+            <idno type="STC">ESTC R176158</idno>
+            <idno type="EEBO-CITATION">45097739</idno>
+            <idno type="OCLC">ocm 45097739</idno>
+            <idno type="VID">171332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes agreed on by the Lords and Commons concerning a treaty; and their desire of a safe conduct for a committee named by them, contained in a letter of the 28. of February from the Earle of Manchester to the Lord Viscount of Falkland. With His Maiesties gratious answer thereunto, and a copy of his safe conduct. : Also the articles concerning a cessation proposed by both houses of Parliamemt [sic], and a letter of the 28. of Feb. from the said Earle of Manchester, to the said L. of Falkland, in which they were inclosed. With His Majesties gratious answer to the same.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+                  <author>Falkland, Lucius Cary, Viscount, 1610?-1643.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by His Majesties command, at Oxford, March 7. by Leonard Lichfield printer to the Vniversity.,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171332:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <p>THE VOTES AGREED ON BY The LORDS and COMMONS Concerning a Treaty; AND Their deſire of a ſafe Conduct for a Committee named by them, contained in a Letter of the 28. of <hi>February</hi> from the Earle of <hi>Mancheſter</hi> to the Lord <hi>Viſcount of Falkland.</hi>
+            </p>
+            <p>WITH <hi>HIS MAIESTIES</hi> Gratious Anſwer thereunto, and a <hi>Copy of His ſafe Conduct.</hi>
+            </p>
+            <p>ALSO The Articles concerning a Ceſſation propoſed by both Houſes of PARLIAMEMT, and a Letter of the 28. of <hi>Feb.</hi> from the ſaid Earle of <hi>Mancheſter,</hi> to the ſaid L. of <hi>Falkland,</hi> in which they were incloſed.</p>
+            <p>With His MAJESTIES gratious <hi>Anſwer to the Same.</hi>
+            </p>
+            <p>Printed, by His MAJESTIES Command, <hi>AT OXFORD, March</hi> 7.</p>
+            <p>By LEONARD LICHFIELD Printer <hi>to the Vniverſity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div n="earl of Manchester to lord viscount of Falkland" type="letter">
+            <pb facs="tcp:171332:2"/>
+            <!-- PDF PAGE 64 -->
+            <pb n="1" facs="tcp:171332:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <head>TO THE RIGHT HONOURABLE the Lord Viſcount FALKLAND, Principall Secretary to His MAJESTY.</head>
+            <opener>
+               <dateline>
+                  <hi>Manchester.</hi>
+               </dateline>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the Lords in Parliament, to deſire your Lordſhip to acquaint His <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> that both Houſes of Par<g ref="char:EOLhyphen"/>liament, having appoynted a Committee to treat with His <hi>Majeſty,</hi> they deſire that a ſafe Conduct may be granted unto them by His <hi>Majesty.</hi> The num<g ref="char:EOLhyphen"/>ber and the Names of the Committee Your
+<pb n="2" facs="tcp:171332:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 65 -->Lordſhip ſhall receive here incloſed. My Lord I am</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips humble ſervant</hi> MANCHESTER, Speaker of the Houſe of Peeres <hi>pro tempore.</hi>
+               </signed>
+               <date>
+                  <hi>Feb.</hi> 28.</date>
+            </closer>
+         </div>
+         <div type="list_of_committee_members">
+            <head>The Number and Names of the Committee.</head>
+            <list>
+               <item>Earle of <hi>Northumberland.</hi>
+               </item>
+               <item>Lord Vic. <hi>Say</hi> and <hi>Seale.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>William Perpoint.</hi>
+               </item>
+               <item>Sir <hi>William Ermyne.</hi>
+               </item>
+               <item>Sir <hi>John Holland.</hi>
+               </item>
+               <item>M<hi rend="sup">r</hi> 
+                  <hi>Bulſtrode Whitlocke.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="treaty">
+            <pb n="3" facs="tcp:171332:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <head>AGREED ON BY THE LORDS and COMMONS <hi>in Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there ſhall be a Treaty upon the Propoſitions, before the disbanding. In which Treaty, ſo much of His <hi>Majeſties</hi> Propoſition as concerneth the Maga<g ref="char:EOLhyphen"/>zines, Forts and Ships, and the Propoſition of both Houſes for the disbanding of the Armies, ſhall be firſt Treated of, and concluded on, before the proceeding to Treat upon any of the other Propoſitions.</p>
+            <p>And that this Treaty ſhall begin the fourth of <hi>March,</hi> or ſooner if it may be. And that from the beginning of the Treaty, the time may not exceed Twenty dayes.</p>
+            <closer>
+               <signed>
+                  <hi>Jo. BROWNE, Cleric.</hi> Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div n="king to Houses of Parliament" type="answer">
+            <pb n="4" facs="tcp:171332:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 66 -->
+            <head>HIS MAIESTIES <hi>ANSWER TO THE</hi> VOTES OF BOTH HOUSES, and to their deſire of a <hi>ſafe Conduct.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>IS <hi>Majeſty</hi> hath ſent a ſafe Con<g ref="char:EOLhyphen"/>duct for the Earle of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> M<hi rend="sup">r</hi> 
+               <hi>Perpoint,</hi> Sir <hi>William Er<g ref="char:EOLhyphen"/>mine,</hi> Sir <hi>John Holland,</hi> and M<hi rend="sup">r</hi> 
+               <hi>Whit<g ref="char:EOLhyphen"/>locke,</hi> but hath not admitted the Lord <hi>Say</hi> to at<g ref="char:EOLhyphen"/>tend Him, as being excepted againſt by name in His Proclamation at <hi>Oxford,</hi> of the third of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> and by Writ to the Sheriffe Proclaimed then in that County, in which His <hi>Majeſties</hi> in<g ref="char:EOLhyphen"/>tention is declared, to proceed againſt him as a Perſon guilty of high Treaſon, and ſo falling to be within the caſe of Sir <hi>Iohn Evelin,</hi> who upon the ſame exception was not admitted to attend His <hi>Majeſty</hi> with the reſt of the Committee at <hi>Colebroke,</hi> in <hi>November</hi> laſt. But His <hi>Majeſty</hi> doth
+<pb n="5" facs="tcp:171332:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 66 -->ſignify, that in caſe the Houſe ſhall think fit to ſend any other Perſon in the place of the Lord <hi>Say,</hi> that is not included in the like exception, His <hi>Majeſty</hi> hath commanded all His Officers, Souldiers and other Subjects, to ſuffer him as freely to paſſe and repaſſe, as if his name had been particularly compriſed in this ſafe. Con<g ref="char:EOLhyphen"/>duct. His <hi>Majeſty</hi> is content that His Propoſiti<g ref="char:EOLhyphen"/>on concerning the Magazines, Forts, Ships, and Revenue, and the Propoſition of both Houſes for the disbanding of the Armies, ſhall be firſt Treated of, and agreed of, before the Pro<g ref="char:EOLhyphen"/>ceeding to Treat upon any of the other Propoſi<g ref="char:EOLhyphen"/>tions. And that after the ſecond of His Majeſties, and the ſecond of theirs be treated on, and a<g ref="char:EOLhyphen"/>greed of, and ſo on in the ſame order. And that from the beginning of the Treaty, the time may not exceed twenty daies, in which He hopes a full peace and right underſtanding may be eſta<g ref="char:EOLhyphen"/>bliſhed throughout the Kingdom.</p>
+         </div>
+         <div n="safe conduct" type="command">
+            <pb n="6" facs="tcp:171332:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <head>His <hi>Majeſties</hi> ſafe Conduct.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR Will and Pleaſure is, And We doe hereby ſtraitly Charge and Command all the Officers and Souldiers of Our pre<g ref="char:EOLhyphen"/>ſent Army, and all Our Miniſters and Sub<g ref="char:EOLhyphen"/>jects whatſoever, to permit and ſuffer Our Right truſty and Right wellbeloved Couzin and Coun<g ref="char:EOLhyphen"/>ſellor <hi>Algernon</hi> Earle of <hi>Northumberland,</hi> and Our Tru<g ref="char:EOLhyphen"/>ſty and Welbeloved <hi>William Perpoint</hi> 
+               <abbr>Eſq</abbr> Sir <hi>William Ermyne,</hi> and Sir <hi>Iohn Holland</hi> Knights, and <hi>Bulſtrode Whitlock</hi> 
+               <abbr>Eſq</abbr> (together with their Servants) to paſſe and repaſſe to and from Us, without any Let or Hinde<g ref="char:EOLhyphen"/>rance, they being now ſent to attend Vs from Our two Houſes of Parliament. This Our ſafe Conduct under Our Signe Manuall and Royall Signet, We Charge and Command them, and every of them, punctually to obſerve and obey, as they will anſwer the contrary at their uttermoſt perills.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> OXFORD, <date>
+                     <hi>the third of</hi> MARCH. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
